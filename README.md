@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**RiskGalt/RiskGalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building projects in web dev + fintech/compliance, with a focus on clean UX and practical tools.
 
-Here are some ideas to get you started:
+## What I’m working on
+- 🌐 Web development projects (HTML/CSS/JS)
+- 📊 Data + risk/compliance tooling (early stage)
+- 🧠 Learning: Git/GitHub workflows, branching, PRs, issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML / CSS / JavaScript
+- Git + GitHub (issues, branches, PRs)
+- Problem-solving + documentation
+
+## Contact
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add yours)
+- Email: (optional)
+
+---
+⭐️ Pinned repos below show what I’m building.
